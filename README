@@ -2,14 +2,14 @@
 
 Python simulation and trajectory optimizer of a two_stage rocket
 
-![Example Trajectory](Images/trajectory_1.png)
-![Example Trajectory](Images/speed_acc_vs_time.png)
-![Example Trajectory](Images/mach_number_vs_altitude.png)
-![Example Trajectory](Images/mach_number_vs_time.png)
-![Example Trajectory](Images/q_vs_altitude.png)
-![Example Trajectory](Images/q_vs_time.png)
-![Example Trajectory](Images/Re_vs_altitude.png)
-![Example Trajectory](Images/Re_vs_time.png.png)
+![Example Trajectory](images/trajectory_1.png)
+![Example Trajectory](images/speed_acc_vs_time.png)
+![Example Trajectory](images/mach_number_vs_altitude.png)
+![Example Trajectory](images/mach_number_vs_time.png)
+![Example Trajectory](images/q_vs_altitude.png)
+![Example Trajectory](images/q_vs_time.png)
+![Example Trajectory](images/Re_vs_altitude.png)
+![Example Trajectory](images/Re_vs_time.png.png)
 
 ## Features
 
