@@ -18,7 +18,7 @@ Python simulation and trajectory optimizer of a two_stage rocket
 - Models thrust, atmospheric drag, variable gravity, variable mass
 - Propagates the trajectory using SciPy numerical integration
 - Optimizes the pitch guidance and second-stage cutoff time in order to achieve correct semi-major axis length (a), eccentricity (e), and inclination (i)
-
+- Does not account for RAAN, Argument of Periapsis, or true anomaly. So all orbits must be in plane with the initial launch direction.
 ## Tools used
 
 - Python
